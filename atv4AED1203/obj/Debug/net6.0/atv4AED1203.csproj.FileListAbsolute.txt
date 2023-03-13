@@ -1,0 +1,15 @@
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\bin\Debug\net6.0\atv4AED1203.exe
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\bin\Debug\net6.0\atv4AED1203.deps.json
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\bin\Debug\net6.0\atv4AED1203.runtimeconfig.json
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\bin\Debug\net6.0\atv4AED1203.dll
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\bin\Debug\net6.0\atv4AED1203.pdb
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\atv4AED1203.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\atv4AED1203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\atv4AED1203.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\atv4AED1203.AssemblyInfo.cs
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\atv4AED1203.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\atv4AED1203.dll
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\refint\atv4AED1203.dll
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\atv4AED1203.pdb
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\atv4AED1203.genruntimeconfig.cache
+C:\Users\mateu\source\repos\atv4AED1203\atv4AED1203\obj\Debug\net6.0\ref\atv4AED1203.dll
